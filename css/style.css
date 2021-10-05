@@ -284,6 +284,7 @@ LOADER
      left: 35px;
      position: relative;
      font-family: 'Akronim', cursive;
+     color:red;
 
 }
  .top-header .navbar .navbar-collapse ul li a.active {
